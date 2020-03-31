@@ -5,8 +5,8 @@
     Download repo and run app.py
 
 ### Screenshots of Application
-![](images/db.jpg)
+![](images/db.png)
 
-![](images/del.jpg)
+![](images/add.png)
 
-![](images/add.jpg)
+![](images/del.png)
